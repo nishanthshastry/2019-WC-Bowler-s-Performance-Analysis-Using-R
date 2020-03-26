@@ -1,6 +1,6 @@
 # Cricket World Cup 2019 Bowler's Performance Analysis Using R
 
-Description: -
+**Description**: -
 
 1. The idea was to integrate our Cricket knowledge with the concepts of Data Science using R as the programming language to analyze the performance of the players(bowlers).
 
@@ -10,7 +10,7 @@ Description: -
 
 4. Being hardcore Cricket fans our main motivation was to find out how bowlers performed in various conditions and different grounds and hence sought out to analyze the performance of bowlers across the globe.
 
-Literature Surveys: -
+**Literature Surveys**: -
 
 1. Nishanth Shastry - Literature Survey of 'Prediction of Cricket World Cup 2019 by TOPSIS Technique of MCDM-A Mathematical Analysis' research paper.
 
