@@ -12,6 +12,6 @@
 
 **Literature Surveys**: -
 
-1. Nishanth Shastry - Literature Survey of 'Prediction of Cricket World Cup 2019 by TOPSIS Technique of MCDM-A Mathematical Analysis' research paper.
+1. **Nishanth Shastry** - Literature Survey of "*Prediction of Cricket World Cup 2019 by TOPSIS Technique of MCDM-A Mathematical Analysis*" research paper.
 
-2. Partheesh Ranjan Singh - Literature Survey of 'CricAI A classification based tool to predict the outcome in ODI cricket' research paper.
+2. **Partheesh Ranjan Singh** - Literature Survey of "*CricAI A classification based tool to predict the outcome in ODI cricket*" research paper.
